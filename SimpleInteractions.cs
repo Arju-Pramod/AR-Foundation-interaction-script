@@ -1,4 +1,4 @@
-﻿//Attach this script to AR session origin (comes along with ARFoundation)
+﻿//Attach this script to gameobject with AR session origin (comes along with ARFoundation)
 //
 //Discription
 //state of previous interaction is stored in currentState variable
